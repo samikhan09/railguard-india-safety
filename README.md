@@ -1,6 +1,6 @@
 # RailGuard
 
-Interactive 3D Indian Railways departure safety demonstration. Select one or both hazards, run the AI safety scan, ask station staff to clear any detection, then confirm the train is ready to depart after a clear rescan.
+Interactive 3D Indian Railways departure safety demonstration. Choose from person, passenger, and animal hazards. Run the AI safety scan; station staff automatically resolve detections and trigger a verification scan. Confirm departure after clearance. Sound controls include a synthesized horn and train-running audio.
 
 ## Run locally
 
