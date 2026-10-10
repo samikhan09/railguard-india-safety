@@ -1,0 +1,4 @@
+# These compact files are maintained application source, not generated or vendor assets.
+index.html linguist-detectable=true linguist-generated=false linguist-vendored=false
+styles.css linguist-detectable=true linguist-generated=false linguist-vendored=false
+app.js linguist-detectable=true linguist-generated=false linguist-vendored=false
